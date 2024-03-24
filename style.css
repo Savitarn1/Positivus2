@@ -269,7 +269,7 @@ img{
 }
 .nano{
     overflow: hidden;
-    height: 130px;
+    height: 100%;
     padding-bottom: 40px;
 }
 .inp1:checked + .nano{
@@ -885,9 +885,8 @@ label{
     }
 }
 @media(max-width:390px){
-    .inp1:checked + .nano{
-        background-color: #b9ff66;
-        height: 350px;
+    .text{
+        width: 340px;
     }
     .name{
         width: 65%;
