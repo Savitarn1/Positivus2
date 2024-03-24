@@ -274,7 +274,7 @@ img{
 }
 .inp1:checked + .nano{
     background-color: #b9ff66;
-    height: 250px;
+    height: 100%;
 }
 .inp1 {
     position: absolute;
@@ -886,7 +886,7 @@ label{
 }
 @media(max-width:390px){
     .text{
-        width: 340px;
+        width: 310px;
     }
     .name{
         width: 65%;
