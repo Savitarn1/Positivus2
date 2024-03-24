@@ -269,7 +269,7 @@ img{
 }
 .nano{
     overflow: hidden;
-    height: 100%;
+    height: 130px;
     padding-bottom: 40px;
 }
 .inp1:checked + .nano{
