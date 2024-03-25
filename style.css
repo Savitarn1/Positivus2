@@ -634,6 +634,9 @@ label{
     .boss:hover .menu{
         display: flex;
     }
+    .knock{
+        display: block;
+    }
     .menu{
         border-radius: 15px;
         position: absolute;
